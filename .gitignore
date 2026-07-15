@@ -1,0 +1,7 @@
+.DS_Store
+
+# Bilder / Audio-Ausgaben
+*.png
+*.jpg
+*.jpeg
+*.wav
