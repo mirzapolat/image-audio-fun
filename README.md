@@ -59,3 +59,7 @@ python3 image_reverb.py bild.jpg --auto
 - Beim Export im Audio-Editor Samplerate und Bittiefe unverändert lassen, damit
   die Bildstruktur erhalten bleibt.
 - Sehr große Bilder erzeugen entsprechend lange WAV-Dateien.
+
+---
+
+<sub>Danke an Hugo für die Idee.</sub>
